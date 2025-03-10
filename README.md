@@ -158,6 +158,4 @@ public class MazeEscape {
 
 **Obiettivo dell'esercizio:** Sviluppare **logica di programmazione**, gestione delle **eccezioni personalizzate**, utilizzo di **matrici** e gestione dell'**input utente**.  
 
-Ti sembra adatto alla classe? Vuoi qualche altra modifica? 😊
-
 Buon lavoro! 🎲
